@@ -6,6 +6,8 @@
     <title>Date</title>
 </head>
 <body>
+    <h1>DATE</h1>
     @ 2010-<?php echo date("Y");?>
+
 </body>
 </html>
